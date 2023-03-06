@@ -1,6 +1,3 @@
--- << Made by: Sw1ndler#7733 >> --
--- << Reworked by: Kaoru~#6438 >> --
-
 local syn = typeof(syn) == 'table' and syn or nil;
 local AnsiFromColors = nil;
 
