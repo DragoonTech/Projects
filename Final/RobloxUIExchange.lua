@@ -7,8 +7,6 @@ task.wait(1)
 
 -- {{ VARS }} --
 
-getgenv().mode = nil
-
 local BottomButtonFrame = game:GetService("CoreGui").RobloxGui.SettingsShield.SettingsShield.MenuContainer.BottomButtonFrame
 local LeaveGameButton = BottomButtonFrame:FindFirstChild("LeaveGameButtonButton")
 local ResetCharacterButton = BottomButtonFrame:FindFirstChild("ResetCharacterButtonButton")
